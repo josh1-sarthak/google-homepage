@@ -1,7 +1,7 @@
 # Google-Homepage 
 
 ## Brief Intro 
-- To create a replica of Google Homepage using HTML and CSS
+- To create a responsive replica of Google Homepage using HTML and CSS
 
 ## Skills Demonstrated
 - HTML
